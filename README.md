@@ -1,6 +1,6 @@
 # 👨‍💻 Rida Louchachha – Python | Odoo | Django Developer
 
-Welcome to my GitHub! I'm a passionate backend developer with solid experience in building ERP modules, web applications, REST APIs, and asynchronous task systems using **Python**, **Odoo**, and **Django**. I enjoy crafting scalable and maintainable solutions for real-world business problems.
+Welcome to my GitHub! I'm a backend developer with solid experience in building ERP modules, web applications, REST APIs, and asynchronous task systems using **Python**, **Odoo**, and **Django**. I enjoy crafting scalable and maintainable solutions for real-world business problems.
 
 ## 💼 What I Do
 
