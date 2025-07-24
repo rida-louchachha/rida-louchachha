@@ -4,6 +4,17 @@ Welcome to my GitHub! I'm a backend developer with solid experience in building 
 
 ## 💼 What I Do
 
+- 🧩 Develop custom **Odoo modules** for business workflows (Sales, CRM, Accounting, HR, etc.)
+- 🛠 Build and scale **Django REST APIs** for web and mobile apps
+- ⚙️ Use **Celery, Redis, and Docker** for tasks and deployment
+- 🐳 Deploy with **Docker** and Nginx, using GitHub Actions for CI/CD
+- 🔐 Set up secure auth with **JWT**
+- 🗄 Improve performance and queries using **Django ORM** and **PostgreSQL**
+- 🧪 Write clean, testable code with **PEP8** and modular principles
+- 📊 Customize reports (PDF/Excel) via **QWeb** in Odoo and dashboards in Django Admin
+- 🌐 Deploy on **Linux servers**, manage domains, SSL, and environments
+
+<!--
 - 🧩 Design and develop custom **Odoo modules** tailored to business workflows (Sales, CRM, Accounting, HR, etc.)
 - 🛠 Build and scale **Django REST APIs** for web and mobile applications
 - ⚙️ Work with  **Celery, Redis, and Docker** for task management and deployment
@@ -13,6 +24,7 @@ Welcome to my GitHub! I'm a backend developer with solid experience in building 
 - 🧪 Write clean, testable code following **PEP8**, DRY/KISS principles, and modular architecture
 - 📊 Customize reports (PDF/Excel) using **QWeb in Odoo** and dynamic dashboards in Django Admin
 - 🌐 Deploy apps on **Linux-based servers**, configure domains, SSL, and manage server-side environments
+-->
 
 
 <p align="left">
